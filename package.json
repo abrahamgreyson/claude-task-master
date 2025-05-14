@@ -1,6 +1,6 @@
 {
-	"name": "task-master-ai",
-	"version": "0.13.2-rc.1",
+	"name": "abe-task-master-ai",
+	"version": "0.1.0",
 	"description": "A task management system for ambitious AI-driven development that doesn't overwhelm and confuse Cursor.",
 	"main": "index.js",
 	"type": "module",
@@ -75,11 +75,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/eyaltoledano/claude-task-master.git"
+		"url": "git+https://github.com/abrahamgreyson/claude-task-master.git"
 	},
-	"homepage": "https://github.com/eyaltoledano/claude-task-master#readme",
+	"homepage": "https://github.com/abrahamgreyson/claude-task-master#readme",
 	"bugs": {
-		"url": "https://github.com/eyaltoledano/claude-task-master/issues"
+		"url": "https://github.com/abrahamgreyson/claude-task-master/issues"
 	},
 	"files": [
 		"scripts/**",

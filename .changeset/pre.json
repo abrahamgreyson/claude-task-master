@@ -2,7 +2,7 @@
   "mode": "pre",
   "tag": "rc",
   "initialVersions": {
-    "task-master-ai": "0.13.1"
+    "task-master-ai": "0.1.0"
   },
   "changesets": [
     "beige-doodles-type",
